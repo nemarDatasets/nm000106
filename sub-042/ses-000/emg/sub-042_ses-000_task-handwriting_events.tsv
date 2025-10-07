@@ -1,0 +1,117 @@
+onset	duration	sample	value	prompt_text	stage_name	posture
+1.009	25.248	2018	handwriting_prompt	h	n/a	n/a
+20.4	66.091	40800	stage_start	n/a	characters_with_digits	standing-on-leg
+26.2575	1.743	52515	handwriting_prompt	?	n/a	n/a
+28.0015	1.4715	56003	handwriting_prompt	3	n/a	n/a
+29.4735	1.809	58947	handwriting_prompt	k	n/a	n/a
+31.2845	1.178	62569	handwriting_prompt	'	n/a	n/a
+32.464	1.342	64928	handwriting_prompt	→	n/a	n/a
+33.8075	1.7635	67615	handwriting_prompt	q	n/a	n/a
+35.5715	1.651	71143	handwriting_prompt	u	n/a	n/a
+37.2235	1.084	74447	handwriting_prompt	,	n/a	n/a
+38.31	1.341	76620	handwriting_prompt	i	n/a	n/a
+39.673	1.6	79346	handwriting_prompt	4	n/a	n/a
+41.275	1.639	82550	handwriting_prompt	m	n/a	n/a
+42.9155	1.6315	85831	handwriting_prompt	7	n/a	n/a
+44.548	1.409	89096	handwriting_prompt	r	n/a	n/a
+45.9585	1.4565	91917	handwriting_prompt	6	n/a	n/a
+47.417	1.259	94834	handwriting_prompt	1	n/a	n/a
+48.682	2.0295	97364	handwriting_prompt	d	n/a	n/a
+50.713	1.419	101426	handwriting_prompt	n	n/a	n/a
+52.135	1.3165	104270	handwriting_prompt	a	n/a	n/a
+53.4515	1.358	106903	handwriting_prompt	o	n/a	n/a
+54.8115	1.4135	109623	handwriting_prompt	x	n/a	n/a
+56.2295	1.241	112459	handwriting_prompt	c	n/a	n/a
+57.472	1.336	114944	handwriting_prompt	2	n/a	n/a
+58.811	1.34	117622	handwriting_prompt	0	n/a	n/a
+60.153	1.5825	120306	handwriting_prompt	5	n/a	n/a
+61.7355	1.4085	123471	handwriting_prompt	b	n/a	n/a
+63.144	1.423	126288	handwriting_prompt	f	n/a	n/a
+64.5675	1.5015	129135	handwriting_prompt	y	n/a	n/a
+66.069	1.2475	132138	handwriting_prompt	g	n/a	n/a
+67.318	1.5825	134636	handwriting_prompt	!	n/a	n/a
+68.9025	1.3975	137805	handwriting_prompt	9	n/a	n/a
+70.3	1.7295	140600	handwriting_prompt	p	n/a	n/a
+72.031	1.4505	144062	handwriting_prompt	8	n/a	n/a
+73.4835	1.1155	146967	handwriting_prompt	.	n/a	n/a
+74.6005	1.5145	149201	handwriting_prompt	t	n/a	n/a
+76.118	1.545	152236	handwriting_prompt	w	n/a	n/a
+77.665	1.238	155330	handwriting_prompt	e	n/a	n/a
+78.9045	1.2215	157809	handwriting_prompt	←	n/a	n/a
+80.129	1.219	160258	handwriting_prompt	s	n/a	n/a
+81.3505	1.1995	162701	handwriting_prompt	v	n/a	n/a
+82.552	1.278	165104	handwriting_prompt	l	n/a	n/a
+83.831	1.2935	167662	handwriting_prompt	z	n/a	n/a
+85.1275	1.364	170255	handwriting_prompt	j	n/a	n/a
+86.493	4.3405	172986	handwriting_prompt	they'd←	n/a	n/a
+86.493	22.7965	172986	stage_start	n/a	words	standing-on-leg
+90.8335	2.9545	181667	handwriting_prompt	just	n/a	n/a
+93.79	4.0055	187580	handwriting_prompt	queen←	n/a	n/a
+97.797	3.4705	195594	handwriting_prompt	next🤏	n/a	n/a
+101.269	4.406	202538	handwriting_prompt	zurcher	n/a	n/a
+105.6765	3.6135	211353	handwriting_prompt	which's	n/a	n/a
+109.291	5.2525	218582	handwriting_prompt	c←weren't	n/a	n/a
+109.291	46.6655	218582	stage_start	n/a	words_with_backspace	standing-on-leg
+114.545	7.47	229090	handwriting_prompt	jyoe←←←ust	n/a	n/a
+122.0175	9.0465	244035	handwriting_prompt	square!eri←←←	n/a	n/a
+131.0665	6.716	262133	handwriting_prompt	exde←←tra	n/a	n/a
+137.783	11.7015	275566	handwriting_prompt	utiiji←←←lize	n/a	n/a
+149.4845	6.4725	298969	handwriting_prompt	thult←←←ink	n/a	n/a
+155.958	34.065	311916	stage_start	n/a	words	standing-on-leg
+155.9585	2.306	311917	handwriting_prompt	thx	n/a	n/a
+158.269	4.1045	316538	handwriting_prompt	lol ok	n/a	n/a
+162.3755	4.834	324751	handwriting_prompt	thats fine	n/a	n/a
+167.241	3.0565	334482	handwriting_prompt	food	n/a	n/a
+170.3	6.2735	340600	handwriting_prompt	let me know	n/a	n/a
+176.5755	4.9165	353151	handwriting_prompt	where u at	n/a	n/a
+181.4935	5.758	362987	handwriting_prompt	that's nice	n/a	n/a
+187.255	2.7685	374510	handwriting_prompt	yeah	n/a	n/a
+190.0255	1.7645	380051	stage_start	n/a	two_digit_numbers	standing-on-leg
+190.0265	1.7645	380053	handwriting_prompt	06	n/a	n/a
+191.7915	2.076	383583	stage_start	n/a	three_digit_numbers	standing-on-leg
+191.792	2.0765	383584	handwriting_prompt	140	n/a	n/a
+193.8705	2.409	387741	handwriting_prompt	8113	n/a	n/a
+193.8705	2.4085	387741	stage_start	n/a	four_digit_numbers	standing-on-leg
+196.281	6.1345	392562	handwriting_prompt	430 369 94	n/a	n/a
+196.2815	6.1225	392563	stage_start	n/a	phone_numbers	standing-on-leg
+202.4165	7.234	404833	stage_start	n/a	phone_numbers_with_space_gesture	standing-on-leg
+202.422	7.229	404844	handwriting_prompt	127→66→4607	n/a	n/a
+209.652	5.0775	419304	stage_start	n/a	prices	standing-on-leg
+209.6525	5.0775	419305	handwriting_prompt	7786.34	n/a	n/a
+214.731	58.762	429462	stage_start	n/a	phrases	standing-on-leg
+214.7325	7.83	429465	handwriting_prompt	a group of people	n/a	n/a
+222.563	10.552	445126	handwriting_prompt	called the gnu project	n/a	n/a
+233.116	11.4825	466232	handwriting_prompt	wrote different parts of	n/a	n/a
+244.6015	11.9385	489203	handwriting_prompt	a new operating system	n/a	n/a
+256.5415	8.8945	513083	handwriting_prompt	called gnu, but it	n/a	n/a
+265.4375	8.058	530875	handwriting_prompt	did not have all	n/a	n/a
+273.4955	14.234	546991	handwriting_prompt	he became oph←←ne of	n/a	n/a
+273.4955	53.0415	546991	stage_start	n/a	phrases_with_backspace	standing-on-leg
+287.734	13.198	575468	handwriting_prompt	the pbr←←←richest men of	n/a	n/a
+300.9335	12.743	601867	handwriting_prompt	his era andr← founded	n/a	n/a
+313.6785	12.8595	627357	handwriting_prompt	the bg←ank now called	n/a	n/a
+326.539	39.0575	653078	stage_start	n/a	phrases_with_space_gesture	standing-on-leg
+326.5395	11.2	653079	handwriting_prompt	branched→ off→ its→ own→	n/a	n/a
+337.7415	15.254	675483	handwriting_prompt	secondary→ show→ called→ velocity→	n/a	n/a
+352.9975	12.608	705995	handwriting_prompt	which→ mirrored→ the→ same→	n/a	n/a
+365.6055	11.0595	731211	handwriting_prompt	cb.←←←a→ tattoo→ is→ a→	n/a	n/a
+365.6055	27.745	731211	stage_start	n/a	phrases_with_backspace_and_space_gesture	standing-on-leg
+376.6665	16.685	753333	handwriting_prompt	permanent→ mark→ mq,←←ade→ by→	n/a	n/a
+393.3525	14.028	786705	stage_start	n/a	digit_phrases	standing-on-leg
+393.3535	6.715	786707	handwriting_prompt	for 3 on the	n/a	n/a
+400.0705	7.3105	800141	handwriting_prompt	half past 2 in	n/a	n/a
+407.382	9.95	814764	stage_start	n/a	digit_phrases_with_backspace	standing-on-leg
+407.3835	9.9555	814767	handwriting_prompt	1cr←← day only from	n/a	n/a
+417.339	11.1465	834678	handwriting_prompt	10→ hotels→ that→ match.→	n/a	n/a
+417.339	11.1445	834678	stage_start	n/a	digit_phrases_with_space_gesture	standing-on-leg
+428.486	12.3175	856972	handwriting_prompt	francisco→ is→ a16.e←→	n/a	n/a
+428.486	12.317	856972	stage_start	n/a	digit_phrases_with_backspace_and_space_gesture	standing-on-leg
+440.805	17.0005	881610	stage_start	n/a	phrases_with_pinch	standing-on-leg
+440.806	9.8315	881612	handwriting_prompt	they are also used🤏	n/a	n/a
+450.639	7.1675	901278	handwriting_prompt	or worn as a🤏	n/a	n/a
+457.8075	13.9285	915615	stage_start	n/a	phrases_with_backspace_and_pinch	standing-on-leg
+457.8085	13.928	915617	handwriting_prompt	thesys←←← exact day and🤏	n/a	n/a
+471.738	15.2715	943476	handwriting_prompt	sometimes→ bruises→ can→ be🤏	n/a	n/a
+471.7385	15.27	943477	stage_start	n/a	phrases_with_pinch_and_space_gesture	standing-on-leg
+487.0105	14.511	974021	stage_start	n/a	phrases_with_backspace_pinch_and_space_gesture	standing-on-leg
+487.033	14.489	974066	handwriting_prompt	at→ thisk'←←→ time→ there🤏	n/a	n/a

@@ -1,0 +1,117 @@
+onset	duration	sample	value	prompt_text	stage_name	posture
+1.009	18.5825	2018	handwriting_prompt	8	n/a	n/a
+16.7755	81.999	33551	stage_start	n/a	characters_with_digits	seated-on-leg
+19.593	2.0625	39186	handwriting_prompt	9	n/a	n/a
+21.6555	1.877	43311	handwriting_prompt	s	n/a	n/a
+23.5335	2.1075	47067	handwriting_prompt	,	n/a	n/a
+25.6415	0.0755	51283	handwriting_prompt	?	n/a	n/a
+25.717	1.9825	51434	handwriting_prompt	n	n/a	n/a
+27.7	1.8355	55400	handwriting_prompt	b	n/a	n/a
+29.5365	2.199	59073	handwriting_prompt	a	n/a	n/a
+31.7375	2.0965	63475	handwriting_prompt	x	n/a	n/a
+33.8355	1.803	67671	handwriting_prompt	d	n/a	n/a
+35.6405	1.6365	71281	handwriting_prompt	3	n/a	n/a
+37.2785	1.6195	74557	handwriting_prompt	f	n/a	n/a
+38.899	3.221	77798	handwriting_prompt	p	n/a	n/a
+42.12	2.624	84240	handwriting_prompt	j	n/a	n/a
+44.7455	1.6795	89491	handwriting_prompt	1	n/a	n/a
+46.426	1.97	92852	handwriting_prompt	w	n/a	n/a
+48.398	2.5775	96796	handwriting_prompt	5	n/a	n/a
+50.9765	2.485	101953	handwriting_prompt	i	n/a	n/a
+53.465	2.2115	106930	handwriting_prompt	→	n/a	n/a
+55.6775	2.167	111355	handwriting_prompt	y	n/a	n/a
+57.845	2.162	115690	handwriting_prompt	o	n/a	n/a
+60.0075	2.0645	120015	handwriting_prompt	k	n/a	n/a
+62.089	2.4495	124178	handwriting_prompt	g	n/a	n/a
+64.5395	1.7345	129079	handwriting_prompt	.	n/a	n/a
+66.278	3.698	132556	handwriting_prompt	e	n/a	n/a
+69.9785	2.193	139957	handwriting_prompt	!	n/a	n/a
+72.174	1.7975	144348	handwriting_prompt	4	n/a	n/a
+73.973	1.7355	147946	handwriting_prompt	←	n/a	n/a
+75.709	1.632	151418	handwriting_prompt	7	n/a	n/a
+77.3435	1.4895	154687	handwriting_prompt	0	n/a	n/a
+78.834	1.4855	157668	handwriting_prompt	t	n/a	n/a
+80.324	1.508	160648	handwriting_prompt	u	n/a	n/a
+81.832	1.408	163664	handwriting_prompt	2	n/a	n/a
+83.24	1.3855	166480	handwriting_prompt	v	n/a	n/a
+84.627	1.5025	169254	handwriting_prompt	r	n/a	n/a
+86.131	1.514	172262	handwriting_prompt	q	n/a	n/a
+87.6455	1.498	175291	handwriting_prompt	l	n/a	n/a
+89.144	1.457	178288	handwriting_prompt	'	n/a	n/a
+90.604	1.6795	181208	handwriting_prompt	m	n/a	n/a
+92.285	1.7485	184570	handwriting_prompt	z	n/a	n/a
+94.0345	1.641	188069	handwriting_prompt	h	n/a	n/a
+95.677	1.54	191354	handwriting_prompt	6	n/a	n/a
+97.2195	1.5575	194439	handwriting_prompt	c	n/a	n/a
+98.7765	26.6715	197553	stage_start	n/a	words	seated-on-leg
+98.777	4.246	197554	handwriting_prompt	'twas	n/a	n/a
+103.0255	5.2095	206051	handwriting_prompt	perjury?	n/a	n/a
+108.2365	4.4245	216473	handwriting_prompt	quickly	n/a	n/a
+112.661	4.7765	225322	handwriting_prompt	relax	n/a	n/a
+117.44	4.121	234880	handwriting_prompt	gaze	n/a	n/a
+121.562	3.8865	243124	handwriting_prompt	vail	n/a	n/a
+125.4495	34.011	250899	stage_start	n/a	words_with_backspace	seated-on-leg
+125.45	6.9285	250900	handwriting_prompt	we'd'd'←←ve	n/a	n/a
+132.3825	4.919	264765	handwriting_prompt	joz←b	n/a	n/a
+137.303	6.5215	274606	handwriting_prompt	exch←ept←	n/a	n/a
+143.8245	6.1645	287649	handwriting_prompt	lip←ke.	n/a	n/a
+149.99	4.884	299980	handwriting_prompt	fj←ilm	n/a	n/a
+154.876	4.5865	309752	handwriting_prompt	yp←ou	n/a	n/a
+159.4625	50.115	318925	stage_start	n/a	words	seated-on-leg
+159.4635	8.3705	318927	handwriting_prompt	ok sounds good	n/a	n/a
+167.8345	6.4715	335669	handwriting_prompt	i have to go	n/a	n/a
+174.306	4.733	348612	handwriting_prompt	sorry	n/a	n/a
+179.039	5.692	358078	handwriting_prompt	we outside	n/a	n/a
+184.732	6.475	369464	handwriting_prompt	hmmmm	n/a	n/a
+191.208	3.4055	382416	handwriting_prompt	i bet	n/a	n/a
+194.614	9.8215	389228	handwriting_prompt	work is good too	n/a	n/a
+204.4375	5.148	408875	handwriting_prompt	oh nice	n/a	n/a
+209.5855	2.5335	419171	handwriting_prompt	27	n/a	n/a
+209.586	2.5265	419172	stage_start	n/a	two_digit_numbers	seated-on-leg
+212.119	4.315	424238	handwriting_prompt	583	n/a	n/a
+212.119	4.3135	424238	stage_start	n/a	three_digit_numbers	seated-on-leg
+216.434	4.8715	432868	handwriting_prompt	7674	n/a	n/a
+216.434	4.8705	432868	stage_start	n/a	four_digit_numbers	seated-on-leg
+221.3065	6.329	442613	stage_start	n/a	phone_numbers	seated-on-leg
+221.3075	6.3345	442615	handwriting_prompt	1 90 7532	n/a	n/a
+227.643	7.2955	455286	handwriting_prompt	8552→2635	n/a	n/a
+227.643	7.2945	455286	stage_start	n/a	phone_numbers_with_space_gesture	seated-on-leg
+234.94	6.678	469880	handwriting_prompt	5579.90	n/a	n/a
+234.94	6.6765	469880	stage_start	n/a	prices	seated-on-leg
+241.619	9.1255	483238	handwriting_prompt	for the graphic designers	n/a	n/a
+241.619	60.289	483238	stage_start	n/a	phrases	seated-on-leg
+250.746	9.0475	501492	handwriting_prompt	who intend to convey	n/a	n/a
+259.7945	8.055	519589	handwriting_prompt	a message with a	n/a	n/a
+267.851	12.015	535702	handwriting_prompt	minimum interference from the	n/a	n/a
+279.8675	12.182	559735	handwriting_prompt	extraneous elements his experiment	n/a	n/a
+292.0505	9.8585	584101	handwriting_prompt	in minimalism was a	n/a	n/a
+301.91	13.6925	603820	handwriting_prompt	very occasionally there isbis←←←	n/a	n/a
+301.9105	44.079	603821	stage_start	n/a	phrases_with_backspace	seated-on-leg
+315.6045	8.7815	631209	handwriting_prompt	also a bie←←ass oboe,	n/a	n/a
+324.3875	11.062	648775	handwriting_prompt	ru←←which sounds an octave	n/a	n/a
+335.4525	10.538	670905	handwriting_prompt	below the owu←←←oboe.	n/a	n/a
+345.991	30.2645	691982	stage_start	n/a	phrases_with_space_gesture	seated-on-leg
+345.9915	10.7795	691983	handwriting_prompt	walken→ is→ a→ skilled→	n/a	n/a
+356.774	9.583	713548	handwriting_prompt	dancer→ who→ in→ many→	n/a	n/a
+366.3575	9.899	732715	handwriting_prompt	of→ his→ movies→ dances,→	n/a	n/a
+376.2595	10.461	752519	handwriting_prompt	xci←←←they→ were→ met→ with→	n/a	n/a
+376.2595	21.546	752519	stage_start	n/a	phrases_with_backspace_and_space_gesture	seated-on-leg
+386.7215	11.0855	773443	handwriting_prompt	siln←ence,→ as→ the→ citizens→	n/a	n/a
+397.807	12.5885	795614	handwriting_prompt	1 economy ticket please.	n/a	n/a
+397.807	21.3815	795614	stage_start	n/a	digit_phrases	seated-on-leg
+410.396	8.794	820792	handwriting_prompt	march 4th to the	n/a	n/a
+419.19	12.586	838380	stage_start	n/a	digit_phrases_with_backspace	seated-on-leg
+419.1905	12.586	838381	handwriting_prompt	the 5tokl←←←h of march.	n/a	n/a
+431.7775	7.9225	863555	handwriting_prompt	about→ 29→ percent→	n/a	n/a
+431.7775	7.922	863555	stage_start	n/a	digit_phrases_with_space_gesture	seated-on-leg
+439.701	9.856	879402	stage_start	n/a	digit_phrases_with_backspace_and_space_gesture	seated-on-leg
+439.7025	9.855	879405	handwriting_prompt	the→ 12th→ of→ marci←h.→	n/a	n/a
+449.559	13.001	899118	handwriting_prompt	the medical and automotive🤏	n/a	n/a
+449.559	25.6495	899118	stage_start	n/a	phrases_with_pinch	seated-on-leg
+462.5615	12.648	925123	handwriting_prompt	fields are two of🤏	n/a	n/a
+475.212	16.497	950424	handwriting_prompt	this letrsb←←←s people experience🤏	n/a	n/a
+475.212	16.4955	950424	stage_start	n/a	phrases_with_backspace_and_pinch	seated-on-leg
+491.7095	11.1885	983419	stage_start	n/a	phrases_with_pinch_and_space_gesture	seated-on-leg
+491.7105	11.1885	983421	handwriting_prompt	also,→ she→ was→ not🤏	n/a	n/a
+502.8995	13.467	1005799	stage_start	n/a	phrases_with_backspace_pinch_and_space_gesture	seated-on-leg
+502.9035	13.4635	1005807	handwriting_prompt	scientists→ arpra←←←e→ not→ sure🤏	n/a	n/a

@@ -1,0 +1,31 @@
+{
+  "InstitutionName": "Meta Reality Labs",
+  "InstitutionAddress": "New York, NY, USA",
+  "InstitutionalDepartmentName": "Reality Labs Research",
+  "TaskDescription": "Participants performed imaginary handwriting (without pen) of prompted text with sEMG recorded from dominant wrist.",
+  "Instructions": "Write the prompted text using imaginary handwriting (fingers together as if holding a pen). Hand may be on desk, lap, or in air depending on stage posture.",
+  "CogAtlasID": "n/a",
+  "CogPOID": "n/a",
+  "DeviceSerialNumber": "n/a",
+  "EMGChannelCount": 16,
+  "PowerLineFrequency": 60,
+  "HardwareFilters": {
+    "Highpass": {
+      "CutoffHz": 20
+    },
+    "Lowpass": {
+      "CutoffHz": 850
+    }
+  },
+  "SoftwareFilters": "n/a",
+  "Manufacturer": "Meta Reality Labs",
+  "ManufacturersModelName": "sEMG-RD",
+  "SoftwareVersions": "n/a",
+  "RecordingType": "continuous",
+  "RecordingDuration": 406.168,
+  "EpochLength": "n/a",
+  "TaskName": "handwriting",
+  "EMGReference": "common",
+  "SamplingFrequency": 2000,
+  "EMGPlacementScheme": "Other"
+}
