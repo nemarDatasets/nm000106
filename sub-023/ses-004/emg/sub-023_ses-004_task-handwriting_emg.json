@@ -22,10 +22,9 @@
   "ManufacturersModelName": "sEMG-RD",
   "SoftwareVersions": "n/a",
   "RecordingType": "continuous",
-  "RecordingDuration": 687.8920000000001,
-  "EpochLength": "n/a",
+  "RecordingDuration": 687.892,
   "TaskName": "handwriting",
   "EMGReference": "common",
   "SamplingFrequency": 2000,
-  "EMGPlacementScheme": "Other"
+  "EMGPlacementScheme": "ChannelSpecific"
 }

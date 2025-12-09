@@ -23,9 +23,8 @@
   "SoftwareVersions": "n/a",
   "RecordingType": "continuous",
   "RecordingDuration": 389.428,
-  "EpochLength": "n/a",
   "TaskName": "handwriting",
   "EMGReference": "common",
   "SamplingFrequency": 2000,
-  "EMGPlacementScheme": "Other"
+  "EMGPlacementScheme": "ChannelSpecific"
 }
