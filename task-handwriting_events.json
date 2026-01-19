@@ -1,0 +1,30 @@
+{
+  "onset": {
+    "Description": "Event onset time",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "seconds"
+  },
+  "sample": {
+    "Description": "Event onset sample (at 2000 Hz)",
+    "Units": "samples"
+  },
+  "value": {
+    "Description": "Event type: handwriting_prompt or stage_start",
+    "Levels": {
+      "handwriting_prompt": "Text prompt for handwriting task",
+      "stage_start": "Stage/trial boundary marker"
+    }
+  },
+  "prompt_text": {
+    "Description": "Text content of handwriting prompt (for handwriting_prompt events)"
+  },
+  "stage_name": {
+    "Description": "Stage name (for stage_start events only)"
+  },
+  "posture": {
+    "Description": "Posture/grip type during stage (e.g., palm_down, angled) (for stage_start events only)"
+  }
+}

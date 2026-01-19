@@ -1,0 +1,120 @@
+onset	duration	sample	value	prompt_text	stage_name	posture
+43.194	31.1	86388	handwriting_prompt	5	n/a	n/a
+63.1915	79.655	126383	stage_start	n/a	characters_with_digits	seated-on-surface
+74.294	2.14	148588	handwriting_prompt	8	n/a	n/a
+76.4345	1.9705	152869	handwriting_prompt	?	n/a	n/a
+78.4225	1.4785	156845	handwriting_prompt	'	n/a	n/a
+79.905	1.3295	159810	handwriting_prompt	.	n/a	n/a
+81.2355	1.5165	162471	handwriting_prompt	i	n/a	n/a
+82.7525	1.506	165505	handwriting_prompt	r	n/a	n/a
+84.261	1.6095	168522	handwriting_prompt	9	n/a	n/a
+85.8705	1.5695	171741	handwriting_prompt	e	n/a	n/a
+87.443	1.6935	174886	handwriting_prompt	b	n/a	n/a
+89.137	2.024	178274	handwriting_prompt	4	n/a	n/a
+91.1615	1.7375	182323	handwriting_prompt	6	n/a	n/a
+92.9	1.9545	185800	handwriting_prompt	q	n/a	n/a
+94.8545	1.899	189709	handwriting_prompt	!	n/a	n/a
+96.754	1.337	193508	handwriting_prompt	→	n/a	n/a
+98.092	1.5965	196184	handwriting_prompt	s	n/a	n/a
+99.689	1.861	199378	handwriting_prompt	k	n/a	n/a
+101.55	1.6085	203100	handwriting_prompt	n	n/a	n/a
+103.159	1.5395	206318	handwriting_prompt	o	n/a	n/a
+104.6995	1.639	209399	handwriting_prompt	f	n/a	n/a
+106.339	1.427	212678	handwriting_prompt	7	n/a	n/a
+107.7685	1.734	215537	handwriting_prompt	3	n/a	n/a
+109.503	1.646	219006	handwriting_prompt	g	n/a	n/a
+111.1495	1.8185	222299	handwriting_prompt	d	n/a	n/a
+112.968	1.5145	225936	handwriting_prompt	c	n/a	n/a
+114.483	1.644	228966	handwriting_prompt	p	n/a	n/a
+116.127	1.4985	232254	handwriting_prompt	2	n/a	n/a
+117.626	1.573	235252	handwriting_prompt	u	n/a	n/a
+119.2005	1.762	238401	handwriting_prompt	,	n/a	n/a
+120.984	1.68	241968	handwriting_prompt	v	n/a	n/a
+122.6655	1.523	245331	handwriting_prompt	j	n/a	n/a
+124.189	2.8555	248378	handwriting_prompt	1	n/a	n/a
+127.0445	1.6265	254089	handwriting_prompt	a	n/a	n/a
+128.671	1.521	257342	handwriting_prompt	m	n/a	n/a
+130.1935	1.2985	260387	handwriting_prompt	z	n/a	n/a
+131.493	1.3165	262986	handwriting_prompt	←	n/a	n/a
+132.8095	1.282	265619	handwriting_prompt	l	n/a	n/a
+134.0915	1.3285	268183	handwriting_prompt	h	n/a	n/a
+135.42	1.406	270840	handwriting_prompt	x	n/a	n/a
+136.8275	1.6175	273655	handwriting_prompt	t	n/a	n/a
+138.4505	1.457	276901	handwriting_prompt	0	n/a	n/a
+139.908	1.4245	279816	handwriting_prompt	y	n/a	n/a
+141.3325	1.516	282665	handwriting_prompt	w	n/a	n/a
+142.8495	3.891	285699	handwriting_prompt	that's	n/a	n/a
+142.8495	30.165	285699	stage_start	n/a	words	seated-on-surface
+146.741	6.4835	293482	handwriting_prompt	james	n/a	n/a
+153.225	5.0765	306450	handwriting_prompt	quickly	n/a	n/a
+158.302	6.198	316604	handwriting_prompt	exactly	n/a	n/a
+164.5	4.5	329000	handwriting_prompt	how's	n/a	n/a
+169.002	4.0135	338004	handwriting_prompt	given	n/a	n/a
+173.0155	65.703	346031	stage_start	n/a	words_with_backspace	seated-on-surface
+173.016	7.388	346032	handwriting_prompt	we'←←←←d	n/a	n/a
+180.404	12.0525	360808	handwriting_prompt	qscat←←←←uack	n/a	n/a
+192.457	10.59	384914	handwriting_prompt	objec←←←←←ts	n/a	n/a
+203.049	17.416	406098	handwriting_prompt	brked←←←←oy	n/a	n/a
+220.4655	10.3215	440931	handwriting_prompt	examp←←←←le	n/a	n/a
+230.7905	7.9285	461581	handwriting_prompt	nigh←←←←t	n/a	n/a
+238.7195	50.851	477439	stage_start	n/a	words	seated-on-surface
+238.7205	6.929	477441	handwriting_prompt	yes i will be	n/a	n/a
+245.6505	3.966	491301	handwriting_prompt	home	n/a	n/a
+249.618	3.8	499236	handwriting_prompt	nope	n/a	n/a
+253.42	6.167	506840	handwriting_prompt	i am great	n/a	n/a
+259.5875	7.8315	519175	handwriting_prompt	what you doing	n/a	n/a
+267.419	9.6885	534838	handwriting_prompt	when should i be	n/a	n/a
+277.109	7.4365	554218	handwriting_prompt	call me back	n/a	n/a
+284.5495	5.0215	569099	handwriting_prompt	where?	n/a	n/a
+289.571	2.545	579142	stage_start	n/a	two_digit_numbers	seated-on-surface
+289.5715	2.545	579143	handwriting_prompt	51	n/a	n/a
+292.1235	3.239	584247	handwriting_prompt	404	n/a	n/a
+292.1245	3.2365	584249	stage_start	n/a	three_digit_numbers	seated-on-surface
+295.363	3.4505	590726	handwriting_prompt	8217	n/a	n/a
+295.363	3.45	590726	stage_start	n/a	four_digit_numbers	seated-on-surface
+298.8155	5.855	597631	handwriting_prompt	2→ 22→ 72	n/a	n/a
+298.8155	5.854	597631	stage_start	n/a	phone_numbers_with_space_gesture	seated-on-surface
+304.6705	10.51	609341	stage_start	n/a	phone_numbers	seated-on-surface
+304.671	10.531	609342	handwriting_prompt	293 5499 676	n/a	n/a
+315.202	6.941	630404	handwriting_prompt	0857.58	n/a	n/a
+315.202	6.9405	630404	stage_start	n/a	prices	seated-on-surface
+322.1445	19.793	644289	stage_start	n/a	random_characters	seated-on-surface
+322.1475	8.0635	644295	handwriting_prompt	xfzc74szn	n/a	n/a
+330.212	11.7305	660424	handwriting_prompt	y6wag5x8xl	n/a	n/a
+341.943	30.6815	683886	handwriting_prompt	the thread slips down between the two points,	n/a	n/a
+341.943	119.6735	683886	stage_start	n/a	phrases	seated-on-surface
+372.627	23.1765	745254	handwriting_prompt	and the tool is then lifted upwards allowing	n/a	n/a
+395.8035	19.1395	791607	handwriting_prompt	i would like two tickets for	n/a	n/a
+414.963	20.688	829926	handwriting_prompt	nav with killy for tomorrow. have	n/a	n/a
+435.652	19.276	871304	handwriting_prompt	i love the globetrotters. they put on	n/a	n/a
+454.929	6.7065	909858	handwriting_prompt	such a great	n/a	n/a
+461.636	25.161	923272	handwriting_prompt	zinc fluoride is made by reacting z←←←←←inc	n/a	n/a
+461.636	101.3975	923272	stage_start	n/a	phrases_with_backspace	seated-on-surface
+486.7975	24.2855	973595	handwriting_prompt	where are you leaving from,←←← going, and when	n/a	n/a
+511.088	28.647	1022176	handwriting_prompt	that larch?←←←←←ittle high five at the end...	n/a	n/a
+539.7355	23.2985	1079471	handwriting_prompt	lol don't forgdim←←←et it's not just	n/a	n/a
+563.0345	13.6765	1126069	handwriting_prompt	the→ community→ will→ also→	n/a	n/a
+563.0345	37.333	1126069	stage_start	n/a	phrases_with_space_gesture	seated-on-surface
+576.746	10.7675	1153492	handwriting_prompt	yes,→ that→ sounds→	n/a	n/a
+587.5235	12.8475	1175047	handwriting_prompt	make→ sure→	n/a	n/a
+600.371	40.053	1200742	stage_start	n/a	phrases_with_backspace_and_space_gesture	seated-on-surface
+600.375	13.5015	1200750	handwriting_prompt	have→ ←a→ nice→ day.→ in→	n/a	n/a
+613.877	26.548	1227754	handwriting_prompt	snuggle→ doggos→ ar←←←e→ the→ best→ doggos→	n/a	n/a
+640.435	9.9	1280870	handwriting_prompt	and 2 days for	n/a	n/a
+640.435	17.0795	1280870	stage_start	n/a	digit_phrases	seated-on-surface
+650.337	7.1815	1300674	handwriting_prompt	bike stolen 2	n/a	n/a
+657.526	14.3215	1315052	handwriting_prompt	on march 1st. will ←←←←you be	n/a	n/a
+657.526	14.3105	1315052	stage_start	n/a	digit_phrases_with_backspace	seated-on-surface
+671.848	26.5875	1343696	handwriting_prompt	book→ 4→ tickets→ for→ the→ struts→ on→ march→	n/a	n/a
+671.8505	26.5585	1343701	stage_start	n/a	digit_phrases_with_space_gesture	seated-on-surface
+698.436	19.9485	1396872	stage_start	n/a	digit_phrases_with_backspace_and_space_gesture	seated-on-surface
+698.438	19.9625	1396876	handwriting_prompt	stoc←←←←there→ are→ 9→ houses→	n/a	n/a
+718.404	30.74	1436808	stage_start	n/a	phrases_with_pinch	seated-on-surface
+718.4115	21.763	1436823	handwriting_prompt	sorry, i was unable to make a reservation.🤏	n/a	n/a
+740.1745	8.97	1480349	handwriting_prompt	i feel bad for🤏	n/a	n/a
+749.1455	13.855	1498291	stage_start	n/a	phrases_with_backspace_and_pinch	seated-on-surface
+749.146	13.8755	1498292	handwriting_prompt	sho←uld i🤏	n/a	n/a
+763.0215	13.9355	1526043	stage_start	n/a	phrases_with_pinch_and_space_gesture	seated-on-surface
+763.022	13.9405	1526044	handwriting_prompt	have→ a→ good→ day🤏	n/a	n/a
+776.9685	33.7725	1553937	stage_start	n/a	phrases_with_backspace_pinch_and_space_gesture	seated-on-surface
+776.974	33.8125	1553948	handwriting_prompt	sure,→ aoing?←←←←←ny→ device→ is→ fine.→ do→ you🤏	n/a	n/a

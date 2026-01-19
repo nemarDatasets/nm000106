@@ -1,0 +1,226 @@
+onset	duration	sample	value	prompt_text	stage_name	posture
+12.9125	3.5585	25825	stage_start	n/a	n/a	Metadata
+39.6905	39.1855	79381	stage_start	n/a	pinch_release	handwriting
+65.242	22.458	130484	handwriting_prompt	k	n/a	n/a
+85.233	37.352	170466	stage_start	n/a	characters	seated-on-surface
+87.702	1.144	175404	handwriting_prompt	e	n/a	n/a
+88.851	1.1585	177702	handwriting_prompt	?	n/a	n/a
+90.0155	0.8505	180031	handwriting_prompt	l	n/a	n/a
+90.874	0.9135	181748	handwriting_prompt	u	n/a	n/a
+91.791	1.256	183582	handwriting_prompt	w	n/a	n/a
+93.0555	0.915	186111	handwriting_prompt	v	n/a	n/a
+93.9705	0.924	187941	handwriting_prompt	c	n/a	n/a
+94.9025	1.0705	189805	handwriting_prompt	q	n/a	n/a
+95.9795	1.341	191959	handwriting_prompt	b	n/a	n/a
+97.325	0.9895	194650	handwriting_prompt	s	n/a	n/a
+98.3225	1.1085	196645	handwriting_prompt	m	n/a	n/a
+99.436	0.952	198872	handwriting_prompt	a	n/a	n/a
+100.3935	1.4615	200787	handwriting_prompt	d	n/a	n/a
+101.8595	1.0515	203719	handwriting_prompt	←	n/a	n/a
+102.9155	0.9825	205831	handwriting_prompt	x	n/a	n/a
+103.9035	1.2905	207807	handwriting_prompt	z	n/a	n/a
+105.1945	1.74	210389	handwriting_prompt	f	n/a	n/a
+106.942	0.996	213884	handwriting_prompt	g	n/a	n/a
+107.9435	1.0945	215887	handwriting_prompt	j	n/a	n/a
+109.051	1.0165	218102	handwriting_prompt	y	n/a	n/a
+110.073	0.923	220146	handwriting_prompt	.	n/a	n/a
+111	0.963	222000	handwriting_prompt	h	n/a	n/a
+111.9765	1.1585	223953	handwriting_prompt	i	n/a	n/a
+113.139	0.947	226278	handwriting_prompt	→	n/a	n/a
+114.1055	0.967	228211	handwriting_prompt	'	n/a	n/a
+115.0775	0.98	230155	handwriting_prompt	,	n/a	n/a
+116.0615	1.1365	232123	handwriting_prompt	t	n/a	n/a
+117.2	1.2425	234400	handwriting_prompt	!	n/a	n/a
+118.447	0.969	236894	handwriting_prompt	o	n/a	n/a
+119.42	0.917	238840	handwriting_prompt	n	n/a	n/a
+120.3405	0.95	240681	handwriting_prompt	r	n/a	n/a
+121.295	1.301	242590	handwriting_prompt	p	n/a	n/a
+122.5965	4.365	245193	handwriting_prompt	hasn't.	n/a	n/a
+122.6005	73.058	245201	stage_start	n/a	words	seated-on-surface
+126.972	3.108	253944	handwriting_prompt	just	n/a	n/a
+130.08	3.1315	260160	handwriting_prompt	zing	n/a	n/a
+133.215	3.478	266430	handwriting_prompt	'twas	n/a	n/a
+136.699	2.9945	273398	handwriting_prompt	take	n/a	n/a
+139.696	3.119	279392	handwriting_prompt	vote🤏	n/a	n/a
+142.815	1.6645	285630	handwriting_prompt	of	n/a	n/a
+144.484	2.251	288968	handwriting_prompt	only	n/a	n/a
+146.7355	3.741	293471	handwriting_prompt	about→	n/a	n/a
+150.478	3.461	300956	handwriting_prompt	him🤏	n/a	n/a
+153.943	4.544	307886	handwriting_prompt	grouped←	n/a	n/a
+158.491	2.6535	316982	handwriting_prompt	race	n/a	n/a
+161.145	5.7765	322290	handwriting_prompt	thats good	n/a	n/a
+166.925	4.468	333850	handwriting_prompt	all good	n/a	n/a
+171.3975	4.1755	342795	handwriting_prompt	i am now	n/a	n/a
+175.577	3.1095	351154	handwriting_prompt	hmmm	n/a	n/a
+178.6905	2.149	357381	handwriting_prompt	yum	n/a	n/a
+180.86	1.665	361720	handwriting_prompt	me	n/a	n/a
+182.5295	6.128	365059	handwriting_prompt	yes it will be	n/a	n/a
+188.659	7.003	377318	handwriting_prompt	are you there?	n/a	n/a
+195.6625	44.485	391325	stage_start	n/a	repeated_words	seated-on-surface
+195.667	5.0825	391334	handwriting_prompt	lionhearts	n/a	n/a
+200.753	4.673	401506	handwriting_prompt	mixture,	n/a	n/a
+205.431	7.229	410862	handwriting_prompt	complex budget.	n/a	n/a
+212.665	8.2255	425330	handwriting_prompt	you've attacked←	n/a	n/a
+220.892	3.705	441784	handwriting_prompt	quite?	n/a	n/a
+224.601	6.2175	449202	handwriting_prompt	tarzan→was→	n/a	n/a
+230.8225	3.8535	461645	handwriting_prompt	jeff!	n/a	n/a
+234.681	5.47	469362	handwriting_prompt	discretion	n/a	n/a
+240.171	42.9615	480342	stage_start	n/a	phrases	seated-on-surface
+240.1715	13.496	480343	handwriting_prompt	the following blank version	n/a	n/a
+253.6715	11.8145	507343	handwriting_prompt	includes all parameters and	n/a	n/a
+265.4905	6.5755	530981	handwriting_prompt	can be used to🤏	n/a	n/a
+272.0745	11.0615	544149	handwriting_prompt	copied directly for use.🤏	n/a	n/a
+283.136	42.5855	566272	stage_start	n/a	phrases_with_space_gesture	seated-on-surface
+283.1365	12.2715	566273	handwriting_prompt	there→ has→ recently→ been→	n/a	n/a
+295.411	9.502	590822	handwriting_prompt	a→ decline→ in→ your→	n/a	n/a
+304.918	8.967	609836	handwriting_prompt	activity→ on→ en.🤏	n/a	n/a
+313.8925	11.8305	627785	handwriting_prompt	it→ says→ the→ location🤏	n/a	n/a
+332.795	1.9535	665590	handwriting_prompt	w	n/a	n/a
+332.8	35.9625	665600	stage_start	n/a	characters	seated-on-leg
+334.753	1.278	669506	handwriting_prompt	d	n/a	n/a
+336.031	1.0165	672062	handwriting_prompt	v	n/a	n/a
+337.052	1.039	674104	handwriting_prompt	!	n/a	n/a
+338.0955	0.976	676191	handwriting_prompt	l	n/a	n/a
+339.0755	1.152	678151	handwriting_prompt	?	n/a	n/a
+340.2355	1.648	680471	handwriting_prompt	z	n/a	n/a
+341.8875	1.21	683775	handwriting_prompt	f	n/a	n/a
+343.102	0.9025	686204	handwriting_prompt	→	n/a	n/a
+344.008	1.012	688016	handwriting_prompt	n	n/a	n/a
+345.025	0.9725	690050	handwriting_prompt	'	n/a	n/a
+346.0025	0.9365	692005	handwriting_prompt	o	n/a	n/a
+346.944	0.9515	693888	handwriting_prompt	,	n/a	n/a
+347.8995	1.108	695799	handwriting_prompt	r	n/a	n/a
+349.0115	1.129	698023	handwriting_prompt	t	n/a	n/a
+350.1445	1.167	700289	handwriting_prompt	q	n/a	n/a
+351.316	1.118	702632	handwriting_prompt	k	n/a	n/a
+352.439	0.978	704878	handwriting_prompt	a	n/a	n/a
+353.422	0.997	706844	handwriting_prompt	←	n/a	n/a
+354.42	1.2255	708840	handwriting_prompt	i	n/a	n/a
+355.649	0.999	711298	handwriting_prompt	p	n/a	n/a
+356.65	0.967	713300	handwriting_prompt	x	n/a	n/a
+357.6205	0.9865	715241	handwriting_prompt	y	n/a	n/a
+358.607	1.0025	717214	handwriting_prompt	e	n/a	n/a
+359.6185	1.08	719237	handwriting_prompt	g	n/a	n/a
+360.7005	1.0045	721401	handwriting_prompt	.	n/a	n/a
+361.7065	1.087	723413	handwriting_prompt	j	n/a	n/a
+362.8	0.8985	725600	handwriting_prompt	u	n/a	n/a
+363.701	0.98	727402	handwriting_prompt	s	n/a	n/a
+364.688	1.1425	729376	handwriting_prompt	m	n/a	n/a
+365.8355	0.86	731671	handwriting_prompt	c	n/a	n/a
+366.6965	0.945	733393	handwriting_prompt	h	n/a	n/a
+367.646	1.1275	735292	handwriting_prompt	b	n/a	n/a
+368.7695	69.1015	737539	stage_start	n/a	words	seated-on-leg
+368.7775	3.633	737555	handwriting_prompt	why're	n/a	n/a
+372.414	3.0445	744828	handwriting_prompt	just🤏	n/a	n/a
+375.465	3.8965	750930	handwriting_prompt	complex	n/a	n/a
+379.365	2.566	758730	handwriting_prompt	rock	n/a	n/a
+381.9565	3.383	763913	handwriting_prompt	you've	n/a	n/a
+385.345	5.468	770690	handwriting_prompt	affairs	n/a	n/a
+390.814	2.0945	781628	handwriting_prompt	but	n/a	n/a
+392.9105	2.866	785821	handwriting_prompt	given	n/a	n/a
+395.7805	2.924	791561	handwriting_prompt	and?	n/a	n/a
+398.707	2.7575	797414	handwriting_prompt	we'd	n/a	n/a
+401.475	3.909	802950	handwriting_prompt	square	n/a	n/a
+405.3845	4.7545	810769	handwriting_prompt	journey?	n/a	n/a
+410.1435	4.374	820287	handwriting_prompt	very well	n/a	n/a
+414.5215	1.6535	829043	handwriting_prompt	ye	n/a	n/a
+416.203	5.8055	832406	handwriting_prompt	sounds good	n/a	n/a
+422.0125	2.6115	844025	handwriting_prompt	who?	n/a	n/a
+424.6285	2.428	849257	handwriting_prompt	here	n/a	n/a
+427.0625	4.8315	854125	handwriting_prompt	how much?	n/a	n/a
+431.9025	2.023	863805	handwriting_prompt	yoo	n/a	n/a
+433.9295	3.9445	867859	handwriting_prompt	not bad	n/a	n/a
+437.8745	46.027	875749	stage_start	n/a	repeated_words	seated-on-leg
+437.8795	5.3515	875759	handwriting_prompt	lionhearts	n/a	n/a
+443.2345	4.946	886469	handwriting_prompt	mixture,	n/a	n/a
+448.186	6.411	896372	handwriting_prompt	tarzan→was→	n/a	n/a
+454.5995	4.216	909199	handwriting_prompt	quite?	n/a	n/a
+458.824	3.4735	917648	handwriting_prompt	jeff!	n/a	n/a
+462.298	8.037	924596	handwriting_prompt	you've attacked←	n/a	n/a
+470.356	5.885	940712	handwriting_prompt	discretion	n/a	n/a
+476.2485	7.6655	952497	handwriting_prompt	complex budget.	n/a	n/a
+483.915	42.8285	967830	stage_start	n/a	phrases	seated-on-leg
+483.918	10.9055	967836	handwriting_prompt	all fossil groups have	n/a	n/a
+494.8245	8.2415	989649	handwriting_prompt	a first and last	n/a	n/a
+503.07	12.767	1006140	handwriting_prompt	appearance in the fossil🤏	n/a	n/a
+515.842	10.904	1031684	handwriting_prompt	record but, for living🤏	n/a	n/a
+526.747	48.7035	1053494	stage_start	n/a	phrases_with_space_gesture	seated-on-leg
+526.7505	10.9015	1053501	handwriting_prompt	rollback→ is→ a→ tool→	n/a	n/a
+537.6605	11.214	1075321	handwriting_prompt	normally→ only→ used→ to→	n/a	n/a
+548.88	15.531	1097760	handwriting_prompt	reverse→ obvious→ vandalism.🤏	n/a	n/a
+564.4115	11.04	1128823	handwriting_prompt	now→ facebook→ is→ a🤏	n/a	n/a
+581.7305	1.864	1163461	handwriting_prompt	l	n/a	n/a
+581.7305	39.0655	1163461	stage_start	n/a	characters	standing-on-leg
+583.599	1.107	1167198	handwriting_prompt	g	n/a	n/a
+584.708	1.2105	1169416	handwriting_prompt	m	n/a	n/a
+585.919	1.004	1171838	handwriting_prompt	h	n/a	n/a
+586.926	1.0695	1173852	handwriting_prompt	i	n/a	n/a
+587.9995	0.9975	1175999	handwriting_prompt	n	n/a	n/a
+589.002	0.92	1178004	handwriting_prompt	c	n/a	n/a
+589.9225	1.111	1179845	handwriting_prompt	a	n/a	n/a
+591.0415	1.077	1182083	handwriting_prompt	.	n/a	n/a
+592.1185	1.1995	1184237	handwriting_prompt	q	n/a	n/a
+593.3255	1.3275	1186651	handwriting_prompt	k	n/a	n/a
+594.658	0.9265	1189316	handwriting_prompt	u	n/a	n/a
+595.5935	1.2225	1191187	handwriting_prompt	?	n/a	n/a
+596.821	1.1315	1193642	handwriting_prompt	y	n/a	n/a
+597.9575	1.2	1195915	handwriting_prompt	j	n/a	n/a
+599.182	1.0255	1198364	handwriting_prompt	→	n/a	n/a
+600.21	0.9425	1200420	handwriting_prompt	,	n/a	n/a
+601.1565	1.3145	1202313	handwriting_prompt	d	n/a	n/a
+602.48	1.34	1204960	handwriting_prompt	z	n/a	n/a
+603.8205	1.1235	1207641	handwriting_prompt	←	n/a	n/a
+604.952	1.3475	1209904	handwriting_prompt	p	n/a	n/a
+606.305	1.114	1212610	handwriting_prompt	!	n/a	n/a
+607.424	1.152	1214848	handwriting_prompt	r	n/a	n/a
+608.58	1.1995	1217160	handwriting_prompt	b	n/a	n/a
+609.7985	1.2525	1219597	handwriting_prompt	t	n/a	n/a
+611.055	1.332	1222110	handwriting_prompt	f	n/a	n/a
+612.3905	1.0995	1224781	handwriting_prompt	s	n/a	n/a
+613.494	1.043	1226988	handwriting_prompt	v	n/a	n/a
+614.5395	1.1955	1229079	handwriting_prompt	o	n/a	n/a
+615.7445	1.424	1231489	handwriting_prompt	w	n/a	n/a
+617.169	1.128	1234338	handwriting_prompt	'	n/a	n/a
+618.302	1.2055	1236604	handwriting_prompt	x	n/a	n/a
+619.5115	1.2905	1239023	handwriting_prompt	e	n/a	n/a
+620.805	81.44	1241610	stage_start	n/a	words	standing-on-leg
+620.8095	3.842	1241619	handwriting_prompt	we've🤏	n/a	n/a
+624.6665	4.028	1249333	handwriting_prompt	square	n/a	n/a
+628.6945	2.3355	1257389	handwriting_prompt	joy	n/a	n/a
+631.0475	5.304	1262095	handwriting_prompt	except→	n/a	n/a
+636.3555	5.6055	1272711	handwriting_prompt	washizu	n/a	n/a
+641.9875	3.958	1283975	handwriting_prompt	like.	n/a	n/a
+645.964	1.7405	1291928	handwriting_prompt	of	n/a	n/a
+647.707	1.792	1295414	handwriting_prompt	be	n/a	n/a
+649.5045	2.79	1299009	handwriting_prompt	some	n/a	n/a
+652.295	3.4725	1304590	handwriting_prompt	group	n/a	n/a
+655.772	2.9125	1311544	handwriting_prompt	could	n/a	n/a
+658.69	2.301	1317380	handwriting_prompt	new	n/a	n/a
+660.991	5.4445	1321982	handwriting_prompt	never mind	n/a	n/a
+666.4405	6.183	1332881	handwriting_prompt	it's fine	n/a	n/a
+672.6275	5.1565	1345255	handwriting_prompt	good luck	n/a	n/a
+677.8045	8.785	1355609	handwriting_prompt	what's going on?	n/a	n/a
+686.5995	2.9295	1373199	handwriting_prompt	oh lol	n/a	n/a
+689.537	1.603	1379074	handwriting_prompt	no	n/a	n/a
+691.144	4.832	1382288	handwriting_prompt	i am good	n/a	n/a
+695.9805	6.2685	1391961	handwriting_prompt	that's great	n/a	n/a
+702.2525	6.8735	1404505	handwriting_prompt	tarzan→was→	n/a	n/a
+702.258	48.1245	1404516	stage_start	n/a	repeated_words	standing-on-leg
+709.129	5.7315	1418258	handwriting_prompt	lionhearts	n/a	n/a
+714.864	4.21	1429728	handwriting_prompt	quite?	n/a	n/a
+719.0775	6.6625	1438155	handwriting_prompt	discretion	n/a	n/a
+725.741	7.5235	1451482	handwriting_prompt	complex budget.	n/a	n/a
+733.2675	8.3305	1466535	handwriting_prompt	you've attacked←	n/a	n/a
+741.605	3.552	1483210	handwriting_prompt	jeff!	n/a	n/a
+745.161	5.2225	1490322	handwriting_prompt	mixture,	n/a	n/a
+750.3885	11.3855	1500777	handwriting_prompt	but the rookie players	n/a	n/a
+750.3885	36.3215	1500777	stage_start	n/a	phrases	standing-on-leg
+761.7775	9.707	1523555	handwriting_prompt	were not prepared for	n/a	n/a
+771.4895	8.7125	1542979	handwriting_prompt	the change of the🤏	n/a	n/a
+780.2035	6.507	1560407	handwriting_prompt	generation.🤏	n/a	n/a
+786.7145	41.29	1573429	stage_start	n/a	phrases_with_space_gesture	standing-on-leg
+786.715	9.484	1573430	handwriting_prompt	this→ area→ is→ most→	n/a	n/a
+796.202	15.655	1592404	handwriting_prompt	famous→ for→ the→ migration→	n/a	n/a
+811.861	12.723	1623722	handwriting_prompt	that→ takes→ place→ every🤏	n/a	n/a
+824.611	3.395	1649222	handwriting_prompt	year.🤏	n/a	n/a
+828.021	61.419	1656042	stage_start	n/a	n/a	Instructions
