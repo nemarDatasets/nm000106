@@ -1,0 +1,70 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Patrick Kaifosh": {},
+    "Thomas R. Reardon": {},
+    "CTRL-labs at Reality Labs": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41586-025-09255-w",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000106",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000106",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.5281/zenodo.17613961",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "title": "FRL Handwriting: Handwriting Decoding from Surface Electromyography",
+  "license": "CC-BY-NC 4.0",
+  "modalities": [
+    "emg"
+  ],
+  "resource_type_specific": "EMG Dataset",
+  "description": "This dataset comprises wrist-based surface electromyography (sEMG) recordings from 100 participants performing imagined handwriting tasks. Participants wrote prompted text in air without a physical writing surface, using a 16-channel sEMG wristband sampled at 2000 Hz. The dataset includes approximately 700 sessions (~7 per participant) and serves as a benchmark for developing non-invasive neuromotor interfaces for text entry applications in augmented/virtual reality and mobile computing contexts.",
+  "methods_description": "Participants wore a 16-channel sEMG wristband (sEMG-RD) on the dominant wrist, sampled at 2000 Hz with bipolar differential referencing. During each ~11-minute session, participants performed air-writing of 96 prompted phrases while maintaining fingers together as if holding an invisible pen. Recordings were conducted with participants in both sitting and standing postures.",
+  "keywords": [
+    {
+      "term": "Electromyography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
+    },
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "handwriting recognition"
+    },
+    {
+      "term": "brain-computer interfaces"
+    },
+    {
+      "term": "text entry"
+    },
+    {
+      "term": "neural decoding"
+    },
+    {
+      "term": "wearable sensors"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Meta Reality Labs"
+    }
+  ],
+  "source_hash": "0aaca8a19300a0c09cbd62c02b221b241657fddd6096c81f8101737aafd74fec"
+}
